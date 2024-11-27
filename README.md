@@ -6,6 +6,12 @@
 
 The **Interactive Resume Tool** is a modern web application built using **React** and **TypeScript** that helps users create, customize, and manage their resumes in an interactive and user-friendly way. Whether you're a professional looking to create a polished resume or a student building your first resume, this tool allows you to easily design a personalized resume by selecting templates, entering data, and exporting it in multiple formats.
 
+## Team Members Section:
+
+- Shvanshu Singh: FULLSTACK developer & UI/UX Designer
+- Kumar Parth: Frontend developer [github](https://github.com/Parthenogenesis)
+- Sajal Arya: Product designer, half developer [github](https://github.com/sajalarya)
+
 ## ✨ Features
 
 - **Template Selection**: Choose from a variety of templates that suit different styles (professional, creative, minimalist, etc.). These templates can be used as a base to customize your resume.

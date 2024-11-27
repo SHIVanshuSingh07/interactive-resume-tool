@@ -1,6 +1,6 @@
 # Interactive Resume Tool
 
-![Project Banner](resume.banner)
+![Project Banner](resume-Banner.png)
 
 ## 🚀 Overview
 

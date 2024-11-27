@@ -4,9 +4,11 @@ const persons = [
   {
     name: 'SHIVANSHU SING',
     role: 'FULLSTACK developer',
-    avatar: 'https://avatars.githubusercontent.com/u/96907908?s=400&u=39e1fe5b86752b2de0873bf2722a78e5765c17c0&v=4',
+    avatar:
+      'https://avatars.githubusercontent.com/u/96907908?s=400&u=39e1fe5b86752b2de0873bf2722a78e5765c17c0&v=4',
     github: 'https://github.com/SHIVanshuSingh07',
-    linkedin: 'https://www.linkedin.com/in/shivanshu-singh-b487b6228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    linkedin:
+      'https://www.linkedin.com/in/shivanshu-singh-b487b6228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
   },
   {
     name: 'KUMAR PARTH',

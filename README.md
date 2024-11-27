@@ -26,7 +26,9 @@ The **Interactive Resume Tool** is a modern web application built using **React*
 To get started with the **Interactive Resume Tool** on your local machine, follow the steps below:
 
 ### Step 1: Clone the repository
+
 To clone the repository, open your terminal and use the following command:
 
 ```bash
 git clone https://github.com/your-username/interactive-resume-tool.git
+```

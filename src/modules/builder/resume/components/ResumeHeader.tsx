@@ -10,8 +10,8 @@ const ResumeHeader = () => {
   return (
     <div className="flex items-center justify-between bg-gradient-to-r from-blue-500 to-indigo-600 p-4 rounded-lg shadow-lg mb-6">
       {/* Template Title with responsive font size */}
-      <ResumeTitle title={templateName}/>
-      
+      <ResumeTitle title={templateName} />
+
       {/* Resume Control buttons (zoom controls) */}
       <div className="flex space-x-4">
         <ResumeController zoomIn={zoomIn} zoomOut={zoomOut} resetZoom={resetZoom} />

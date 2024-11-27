@@ -1,5 +1,5 @@
-import { NavBarActions, StyledButton } from '../builder/nav-bar/atoms';
-import { motion, useAnimation } from 'framer-motion';
+import { StyledButton } from '../builder/nav-bar/atoms';
+import { motion } from 'framer-motion';
 
 import { BsGithub } from 'react-icons/bs';
 import { Button } from '@mui/material';
@@ -9,7 +9,7 @@ import Link from 'next/link';
 import Person from './components/Person';
 
 const HomeLayout = () => {
-  const controls = useAnimation();
+  // const controls = useAnimation();
 
   const fadeInUp = {
     initial: { opacity: 0, y: 20 },
